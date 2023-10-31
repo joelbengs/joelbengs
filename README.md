@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://tenor.com/view/pulp-fiction-gif-24706301" >
+![Pulp Fiction GIF](assets/LifeAquatic.gif)
 
-![Pulp Fiction GIF](https://tenor.com/view/pulp-fiction-gif-24706301)
-
-
-
-![Tarantino GIF](https://wifflegif.com/gifs/101416-inglourious-basterds-quentin-tarantino-gif)
-
-<img src="https://wifflegif.com/gifs/101416-inglourious-basterds-quentin-tarantino-gif" >
+- 🔭 I’m currently working on preparations for my master's thesis.
+- 🌱 I’m learning distributed machine learning for IoT devices.
