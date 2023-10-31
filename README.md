@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on preparations for my master's thesis.
 - 🌱 I’m learning distributed machine learning for IoT devices.
+
+![Snake animation](https://github.com/joelbengs/joelbengs/blob/output/github-contribution-grid-snake.svg)
