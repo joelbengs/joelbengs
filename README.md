@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://tenor.com/view/pulp-fiction-gif-24706301" >
+
 ![Pulp Fiction GIF](https://tenor.com/view/pulp-fiction-gif-24706301)
 
-<!-- or using HTML -->
-<div class="tenor-gif-embed" data-postid="24706301" data-share-method="host" data-aspect-ratio="2.2695" data-width="100%"><a href="https://tenor.com/view/pulp-fiction-gif-24706301">Pulp Fiction GIF</a> from <a href="https://tenor.com/search/pulp+fiction-gifs">Pulp Fiction GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
+![Tarantino GIF](https://wifflegif.com/gifs/101416-inglourious-basterds-quentin-tarantino-gif)
+
+<img src="https://wifflegif.com/gifs/101416-inglourious-basterds-quentin-tarantino-gif" >
