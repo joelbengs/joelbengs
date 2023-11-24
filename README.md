@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Pulp Fiction GIF](assets/LifeAquatic.gif)
 
-- 🔭 I’m currently working on preparations for my master's thesis.
-- 🌱 I’m learning distributed machine learning for IoT devices.
+- 🔭 I’m currently working on preparations for my master's thesis at Ericsson Research in Lund.
+- 🌱 I’m learning distributed machine learning for IoT devices as my final course at Uni.
