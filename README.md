@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ![Pulp Fiction GIF](assets/LifeAquatic.gif)
 
-- 🔭 I’m currently working on my master's thesis at Ericsson Research in Lund, with the Device Platform Research team. Through quantization, I hope to compress and accelerate visual transformer models for deployment to resource-constrained devices (Nvidia Jetson Orion).
-- 💬 I just completed distributed machine learning for IoT devices as my final course at Uni.
+- 🔭 I'm currently on vacation and just coding hobby stuff.
+- 💬 I just finished my Master's thesis at Ericsson's Device Platform Research Team, titled "Accelerated Segmentation with Mixed-Precision Quantization of EfficientViT-SAM.
 - 🌱 I'm inspired by @mischavandenburg and his notetaking in neovim + obsidian.
-- 🔭 Starting in September, you'll find me at Netlight in Stockholm! 
+- 🔭 Starting in September, you'll find me at Netlight in Stockholm!
 - 📫 How to reach me: joelbengs (a) [gmail / netlight.com / instagram / twitter / anywhere]
