@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Pulp Fiction GIF](assets/LifeAquatic.gif)
 
 - 🔭 I'm currently on vacation and just coding hobby stuff.
-- 💬 I just finished my Master's thesis at Ericsson's Device Platform Research Team, titled "Accelerated Segmentation with Mixed-Precision Quantization of EfficientViT-SAM.
+- 💬 I just finished my Master's thesis at Ericsson's Device Platform Research Team, titled '_Accelerated Segmentation with Mixed-Precision Quantization of EfficientViT-SAM_'.
 - 🌱 I'm inspired by @mischavandenburg and his notetaking in neovim + obsidian.
 - 🔭 Starting in September, you'll find me at Netlight in Stockholm!
 - 📫 How to reach me: joelbengs (a) [gmail / netlight.com / instagram / twitter / anywhere]
